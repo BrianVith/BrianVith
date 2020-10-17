@@ -4,6 +4,13 @@ using System.Text;
 
 namespace Morgengry
 {
+    public enum Level
+    {
+        low,
+        medium,
+        high
+    }
+
     public class Amulet
     {
         private string itemId;

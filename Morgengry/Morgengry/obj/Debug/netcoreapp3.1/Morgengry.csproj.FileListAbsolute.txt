@@ -11,3 +11,16 @@ C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Deb
 C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.dll
 C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.pdb
 C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.genruntimeconfig.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\bin\Debug\netcoreapp3.1\Morgengry.exe
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\bin\Debug\netcoreapp3.1\Morgengry.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\bin\Debug\netcoreapp3.1\Morgengry.runtimeconfig.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\bin\Debug\netcoreapp3.1\Morgengry.runtimeconfig.dev.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\bin\Debug\netcoreapp3.1\Morgengry.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\bin\Debug\netcoreapp3.1\Morgengry.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.csprojAssemblyReference.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.AssemblyInfoInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.AssemblyInfo.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.csproj.CoreCompileInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\Morgengry\obj\Debug\netcoreapp3.1\Morgengry.genruntimeconfig.cache

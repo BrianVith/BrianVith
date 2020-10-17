@@ -5732,19 +5732,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bruger\\.nuget\\packages\\": {}
+    "C:\\Users\\brian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruger\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\Bruger\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
-      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruger\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\obj\\",
+      "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
+      "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5757,8 +5757,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Bruger\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\Morgengry\\Morgengry.csproj": {
-              "projectPath": "C:\\Users\\Bruger\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\Morgengry\\Morgengry.csproj"
+            "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\Morgengry\\Morgengry.csproj": {
+              "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\Morgengry\\Morgengry.csproj"
             }
           }
         }
@@ -5804,7 +5804,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
