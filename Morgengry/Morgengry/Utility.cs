@@ -4,6 +4,7 @@ namespace Morgengry
 {
     public static class Utility
     {
+        //priv
         private static double highQualityValue;
         private static double mediumQualityValue;
         private static double lowQualityValue;
