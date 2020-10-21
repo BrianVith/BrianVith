@@ -35,6 +35,7 @@ namespace Morgengry
         {
         }
 
+
         public Book(string itemId) : 
             this (itemId, "", 0)
         {

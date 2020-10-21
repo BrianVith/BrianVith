@@ -21,52 +21,44 @@ namespace Morgengry
             set { mediumQualityValue = value; }
         }
 
-        public static double LowQuialityValue
+        public static double LowQualityValue
         {
             get { return lowQualityValue; }
             set { lowQualityValue = value; }
         }
 
         public static double CourseHourValue
-        {
+        { 
             get { return courseHourValue; }
             set { courseHourValue = value; }
         }
 
         static Utility()
         {
-            HighQualityValue = 27.5;
-            MediumQualityValue = 20.0;
-            HighQualityValue = 27.5;
-            CourseHourValue = 875.0;
+            lowQualityValue = 12.5;
+            mediumQualityValue = 20.0;
+            highQualityValue = 27.5;
+            courseHourValue = 875.0;
         }
 
         public static double GetValueOfMerchandise(Merchandise merchandise)
         {
             if (merchandise is Amulet amulet)
             {
-                double value = 0;
-
                 switch (amulet.Quality)
                 {
                     case Level.high:
-                        value = 27.5;
-                        break;
+                        return HighQualityValue; 
 
                     case Level.medium:
-                        value = 20.0;
-                        break;
+                        return MediumQualityValue;  
 
                     case Level.low:
-                        value = 12.5;
-                        break;
+                        return LowQualityValue;
 
                     default:
-                        Console.WriteLine("Error, quality does not exist");
-                        break;
-                }
-                return value;
-
+                        return 0; 
+                }     
             }
             else if (merchandise is Book book)
             {
@@ -79,32 +71,6 @@ namespace Morgengry
             }
 
         }
-
-        //public static double GetValueOfAmulet(Amulet amulet)
-        //{
-        //    double value=0;
-
-        //    switch(amulet.Quality)
-        //    {
-        //        case Level.high: 
-        //            value = 27.5;
-        //            break;
-
-        //        case Level.medium:
-        //            value = 20.0;
-        //            break;
-
-        //        case Level.low:
-        //            value = 12.5;
-        //            break;
-
-        //        default:
-        //            Console.WriteLine("Error, quality does not exist");
-        //            break;
-        //    }
-
-        //    return value;
-        //}
 
         public static double GetValueOfCourse(Course course)
         {
@@ -121,8 +87,7 @@ namespace Morgengry
             {
                 hourStarted = (course.DurationInMinutes / 60) + 1;
             }
-
-            return hourStarted * 875.00;
+            return hourStarted * courseHourValue;
         }
     }
 }

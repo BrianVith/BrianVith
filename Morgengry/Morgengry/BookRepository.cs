@@ -27,19 +27,16 @@ namespace Morgengry
                     return b;
                 }
             }
-
             return null;
         }
 
         public double GetTotalValue()
         {
             double sum = 0;
-
             foreach (Book b in books)
             {
                 sum += Utility.GetValueOfMerchandise(b);
             }
-
             return sum;
         }
     
