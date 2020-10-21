@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Morgengry", "Morgengry\Morgengry.csproj", "{E6CD0730-646F-48C5-9DED-B36DB6DECDE4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{A776ED2E-6E5E-4A04-8467-15F726F0133F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MorgenGryTest", "UnitTestProject1\MorgenGryTest.csproj", "{A776ED2E-6E5E-4A04-8467-15F726F0133F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLib", "UtilityLib\UtilityLib.csproj", "{E94B7472-3FC0-4857-8E24-EC3911D7DDBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilityLib", "UtilityLib\UtilityLib.csproj", "{E94B7472-3FC0-4857-8E24-EC3911D7DDBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

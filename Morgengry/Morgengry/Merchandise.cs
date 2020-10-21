@@ -14,11 +14,6 @@ namespace Morgengry
             set { itemId = value; }
         }
 
-        //public Merchandise(string itemId)
-        //{
-        //    this.itemId = itemId;
-        //}
-
         public override string ToString()
         {
             return $"ItemId: {itemId}";

@@ -1,8 +1,8 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Morgengry;
-using UtilityLib;
 
-namespace UnitTestProject1
+
+namespace MorgenGryTest
 {
     [TestClass]
     public class UnitTest1

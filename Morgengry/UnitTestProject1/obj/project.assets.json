@@ -5756,9 +5756,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
-      "projectName": "UnitTestProject1",
-      "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\MorgenGryTest.csproj",
+      "projectName": "MorgenGryTest",
+      "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\MorgenGryTest.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OLKMnCTsiGh/O1qxmxdtgml5qnlz8Z9VbTGsrpEzyblbs9EAs9cq0RK1BghgIHb1Up16fvv7r6lOXUA5x4c5/Q==",
+  "dgSpecHash": "RjgsTfmWx2dtpn4cPbT7uH4xO2ltf+QX0Wy/i18GgCdTlW2npi3mNPzsL5BitGr2siR46bK8QluS0KNoJ88uQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\UnitTestProject1.csproj",
+  "projectFilePath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\Morgengry\\UnitTestProject1\\MorgenGryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brian\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\brian\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
