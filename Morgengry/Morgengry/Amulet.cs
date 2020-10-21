@@ -11,19 +11,12 @@ namespace Morgengry
         high
     }
 
-    public class Amulet
+    public class Amulet : Merchandise
     {
-        private string itemId;
+
         private string design;
         private Level quality;
 
-        
-
-        public string ItemId
-        {
-            get { return itemId; }
-            set { itemId = value; }
-        }
 
         public string Design
         {
@@ -40,7 +33,7 @@ namespace Morgengry
 
         public Amulet(string itemId, Level quality, string design)
         {
-            this.itemId = itemId;
+            base.ItemId = itemId;
             this.quality = quality;
             this.design = design;
         }
@@ -58,7 +51,7 @@ namespace Morgengry
 
         public override string ToString()
         {
-            return $"ItemId: {itemId}, Quality: {quality}, Design: {design}";
+            return $"ItemId: {base.ItemId}, Quality: {quality}, Design: {design}";
         }
 
     }

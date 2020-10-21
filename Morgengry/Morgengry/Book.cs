@@ -4,15 +4,8 @@ using System.Text;
 
 namespace Morgengry
 {
-    public class Book
+    public class Book : Merchandise
     {
-        private string itemId;
-
-        public string ItemId
-        {
-            get { return itemId; }
-            set { itemId = value; }
-        }
 
         private string title;
 
@@ -32,7 +25,7 @@ namespace Morgengry
 
         public Book(string itemId, string title, double price)
         {
-            this.itemId = itemId;
+            base.ItemId = itemId;
             this.title = title;
             this.price = price;
         }
@@ -42,14 +35,14 @@ namespace Morgengry
         {
         }
 
-        public Book(string itemid) : 
-            this (itemid, "", 0)
+        public Book(string itemId) : 
+            this (itemId, "", 0)
         {
         }
 
         public override string ToString()
         {
-            return $"ItemId: {itemId}, Title: {title}, Price: {price}";
+            return $"ItemId: {base.ItemId}, Title: {title}, Price: {price}";
         }
 
 

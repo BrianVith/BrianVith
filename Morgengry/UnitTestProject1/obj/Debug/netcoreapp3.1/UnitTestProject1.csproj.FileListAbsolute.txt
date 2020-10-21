@@ -192,3 +192,5 @@ C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UnitTestProject1\o
 C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.dll
 C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.pdb
 C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UnitTestProject1\obj\Debug\netcoreapp3.1\UnitTestProject1.genruntimeconfig.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UnitTestProject1\bin\Debug\netcoreapp3.1\UtilityLib.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UnitTestProject1\bin\Debug\netcoreapp3.1\UtilityLib.pdb
