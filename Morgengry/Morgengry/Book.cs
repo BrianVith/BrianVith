@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Text;
 
 namespace Morgengry
@@ -41,12 +42,28 @@ namespace Morgengry
         {
         }
 
+        public override double GetValue()
+        {
+            return price;
+        }
+
         public override string ToString()
         {
             return $"ItemId: {base.ItemId}, Title: {title}, Price: {price}";
         }
 
+        public override string SavePrep()
+        {
+            return $"{GetType().Name};{ItemId};{Title};{Price}";
+        }
 
+        public override void LoadPrep(string[] data)
+        {
+            //ItemId = data[1];
+            title = data[2];
+            price = double.Parse(data[3]);
+           
+        }
 
     }
 }

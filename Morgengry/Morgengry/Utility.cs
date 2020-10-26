@@ -1,97 +1,98 @@
-﻿using System;
+﻿//using System;
 
-namespace Morgengry
-{
-    public static class Utility
-    {
-        //priv
-        private static double highQualityValue;
-        private static double mediumQualityValue;
-        private static double lowQualityValue;
-        private static double courseHourValue;
-        
-        public static double HighQualityValue
-        {
-            get { return highQualityValue; }
-            set { highQualityValue = value; }
-        }
+//namespace Morgengry
+//{
+//    public static class Utility
+//    {
+//        //priv
+//        private static double courseHourValue;
 
-        public static double MediumQualityValue
-        {
-            get { return mediumQualityValue; }
-            set { mediumQualityValue = value; }
-        }
+//        private static double highQualityValue;
+//        private static double mediumQualityValue;
+//        private static double lowQualityValue;
 
-        public static double LowQualityValue
-        {
-            get { return lowQualityValue; }
-            set { lowQualityValue = value; }
-        }
+//        public static double HighQualityValue
+//        {
+//            get { return highQualityValue; }
+//            set { highQualityValue = value; }
+//        }
 
-        public static double CourseHourValue
-        { 
-            get { return courseHourValue; }
-            set { courseHourValue = value; }
-        }
+//        public static double MediumQualityValue
+//        {
+//            get { return mediumQualityValue; }
+//            set { mediumQualityValue = value; }
+//        }
 
-        static Utility()
-        {
-            lowQualityValue = 12.5;
-            mediumQualityValue = 20.0;
-            highQualityValue = 27.5;
-            courseHourValue = 875.0;
-        }
+//        public static double LowQualityValue
+//        {
+//            get { return lowQualityValue; }
+//            set { lowQualityValue = value; }
+//        }
 
-        public static double GetValueOfMerchandise(Merchandise merchandise)
-        {
-            if (merchandise is Amulet amulet)
-            {
-                switch (amulet.Quality)
-                {
-                    case Level.high:
-                        return HighQualityValue; 
+//        public static double CourseHourValue
+//        {
+//            get { return courseHourValue; }
+//            set { courseHourValue = value; }
+//        }
 
-                    case Level.medium:
-                        return MediumQualityValue;  
+//        static Utility()
+//        {
+//            lowQualityValue = 12.5;
+//            mediumQualityValue = 20.0;
+//            highQualityValue = 27.5;
+//            courseHourValue = 875.0;
+//        }
 
-                    case Level.low:
-                        return LowQualityValue;
+//        public static double GetValueOfMerchandise(Merchandise merchandise)
+//        {
+//            if (merchandise is Amulet amulet)
+//            {
+//                switch (amulet.Quality)
+//                {
+//                    case Level.high:
+//                        return HighQualityValue;
 
-                    default:
-                        return 0; 
-                }     
-            }
-            else if (merchandise is Book book)
-            {
+//                    case Level.medium:
+//                        return MediumQualityValue;
 
-                return book.Price;
-            }
-            else
-            {
-                return 0;
-            }
+//                    case Level.low:
+//                        return LowQualityValue;
 
-        }
+//                    default:
+//                        return 0;
+//                }
+//            }
+//            else if (merchandise is Book book)
+//            {
 
-        public static double GetValueOfCourse(Course course)
-        {
-            int hourStarted;
-            if (course.DurationInMinutes == 0)
-            {
-                hourStarted = 0;
-            }
-            else if (course.DurationInMinutes % 60 == 0)
-            {
-                hourStarted = course.DurationInMinutes / 60;
-            }
-            else
-            {
-                hourStarted = (course.DurationInMinutes / 60) + 1;
-            }
-            return hourStarted * courseHourValue;
-        }
-    }
-}
+//                return book.Price;
+//            }
+//            else
+//            {
+//                return 0;
+//            }
+
+//        }
+
+//        public static double GetValueOfCourse(Course course)
+//        {
+//            int hourStarted;
+//            if (course.DurationInMinutes == 0)
+//            {
+//                hourStarted = 0;
+//            }
+//            else if (course.DurationInMinutes % 60 == 0)
+//            {
+//                hourStarted = course.DurationInMinutes / 60;
+//            }
+//            else
+//            {
+//                hourStarted = (course.DurationInMinutes / 60) + 1;
+//            }
+//            return hourStarted * courseHourValue;
+//        }
+//    }
+//}
 
 
 
