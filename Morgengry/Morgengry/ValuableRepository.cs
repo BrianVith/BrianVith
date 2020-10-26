@@ -85,7 +85,7 @@ namespace Morgengry
                 data = str.Split(new char[] { ';' }, StringSplitOptions.None);
                 str = reader.ReadLine();
 
-                Type objectType = Type.GetType("Morgengry." + data[0]);
+                Type objectType = Type.GetType(GetType().Namespace + "." + data[0]);
                 IValuable item = Activator.CreateInstance(objectType, data[1]) as IValuable;
                 item.LoadPrep(data);
                 valuables.Add(item);
