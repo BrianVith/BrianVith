@@ -37,18 +37,22 @@ namespace MorgenGryTest
 
             vr2 = new ValuableRepository();
 
-            if (File.Exists("ValuableRepository.txt"))
-            {
-                File.Delete("ValuableRepository.txt");
-            }
-            if (File.Exists("TestFile01.txt"))
-            {
-                File.Delete("TestFile01.txt");
-            }
-            if (File.Exists("TestFile02.txt"))
-            {
-                File.Delete("TestFile02.txt");
-            }
+            //if (File.Exists("ValuableRepository.txt"))
+            //{
+            //    File.Delete("ValuableRepository.txt");
+            //}
+            //if (File.Exists("Serialization.txt"))
+            //{
+            //    File.Delete("Serialization.txt");
+            //}
+            //if (File.Exists("TestFile01.txt"))
+            //{
+            //    File.Delete("TestFile01.txt");
+            //}
+            //if (File.Exists("TestFile02.txt"))
+            //{
+            //    File.Delete("TestFile02.txt");
+            //}
         }
 
         [TestMethod]
@@ -99,6 +103,57 @@ namespace MorgenGryTest
             Assert.AreEqual(vr1.GetValuable("No. A1").ToString(), vr2.GetValuable("No. A1").ToString());
             Assert.AreEqual(vr1.GetValuable("No. A2").ToString(), vr2.GetValuable("No. A2").ToString());
         }
+
+        [TestMethod]
+        public void TestSaveSerialize()
+        {
+            vr1.SaveSerializable("TestFile02.txt");
+            Assert.AreEqual(true, File.Exists("TestFile02.txt"));
+        }
+
+        [TestMethod]
+        public void TestLoadDeserializableWithFileName()
+        {
+            vr1.SaveSerializable("TestFile02.txt");
+            vr2.LoadDeserializable("TestFile02.txt");
+            int noOfElements = vr1.Count();
+            Assert.AreEqual(noOfElements, vr2.Count());
+            Assert.AreEqual(vr1.GetValuable("No. B2").ToString(), vr2.GetValuable("No. B2").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. B1").ToString(), vr2.GetValuable("No. B1").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. B3").ToString(), vr2.GetValuable("No. B3").ToString());
+
+            Assert.AreEqual(vr1.GetValuable("Basis kursus").ToString(),
+             vr2.GetValuable("Basis kursus").ToString());
+            Assert.AreEqual(vr1.GetValuable("Kursus 2").ToString(), vr2.GetValuable("Kursus 2").ToString());
+
+            Assert.AreEqual(vr1.GetValuable("No. A3").ToString(), vr2.GetValuable("No. A3").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. A1").ToString(), vr2.GetValuable("No. A1").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. A2").ToString(), vr2.GetValuable("No. A2").ToString());
+        }
+
+
+        [TestMethod]
+        public void TestLoadDeserializableWithDefaultFile()
+        {
+            vr1.SaveSerializable();
+            vr2.LoadDeserializable();
+            int noOfElements = vr1.Count();
+            Assert.AreEqual(noOfElements, vr2.Count());
+            Assert.AreEqual(vr1.GetValuable("No. B2").ToString(), vr2.GetValuable("No. B2").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. B1").ToString(), vr2.GetValuable("No. B1").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. B3").ToString(),
+                 vr2.GetValuable("No. B3").ToString());
+
+            Assert.AreEqual(vr1.GetValuable("Basis kursus").ToString(),
+             vr2.GetValuable("Basis kursus").ToString());
+            Assert.AreEqual(vr1.GetValuable("Kursus 2").ToString(), vr2.GetValuable("Kursus 2").ToString());
+
+            Assert.AreEqual(vr1.GetValuable("No. A3").ToString(), vr2.GetValuable("No. A3").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. A1").ToString(), vr2.GetValuable("No. A1").ToString());
+            Assert.AreEqual(vr1.GetValuable("No. A2").ToString(), vr2.GetValuable("No. A2").ToString());
+        }
+
+
     }
 
 }

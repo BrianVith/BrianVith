@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Morgengry
 {
+    [Serializable]
     public class Course : IValuable
     {
         private string name;

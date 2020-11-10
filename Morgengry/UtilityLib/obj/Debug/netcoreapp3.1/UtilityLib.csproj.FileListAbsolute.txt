@@ -11,3 +11,16 @@ C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Deb
 C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csproj.CopyComplete
 C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.dll
 C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.pdb
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\bin\Debug\netcoreapp3.1\Morgengry.exe
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\bin\Debug\netcoreapp3.1\UtilityLib.deps.json
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\bin\Debug\netcoreapp3.1\UtilityLib.dll
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\bin\Debug\netcoreapp3.1\UtilityLib.pdb
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\bin\Debug\netcoreapp3.1\Morgengry.dll
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\bin\Debug\netcoreapp3.1\Morgengry.pdb
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csprojAssemblyReference.cache
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.AssemblyInfoInputs.cache
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.AssemblyInfo.cs
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.csproj.CopyComplete
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.dll
+C:\Users\Bruger\Dropbox\Datamatiker\GitHub\BrianVith\Morgengry\UtilityLib\obj\Debug\netcoreapp3.1\UtilityLib.pdb

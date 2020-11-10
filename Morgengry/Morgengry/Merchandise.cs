@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Morgengry
 {
+    [Serializable]
     public abstract class Merchandise : IValuable
     {
         private string itemId;

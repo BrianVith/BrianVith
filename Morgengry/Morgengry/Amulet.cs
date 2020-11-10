@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Morgengry
 {
+    [Serializable]
     public enum Level
     {
         low,
@@ -11,6 +12,7 @@ namespace Morgengry
         high
     }
 
+    [Serializable]
     public class Amulet : Merchandise 
     {
         private static double highQualityValue = 27.5;
