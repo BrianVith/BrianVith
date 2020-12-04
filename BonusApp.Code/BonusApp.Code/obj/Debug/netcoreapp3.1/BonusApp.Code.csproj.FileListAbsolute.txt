@@ -1,0 +1,13 @@
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\bin\Debug\netcoreapp3.1\BonusApp.Code.exe
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\bin\Debug\netcoreapp3.1\BonusApp.Code.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\bin\Debug\netcoreapp3.1\BonusApp.Code.runtimeconfig.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\bin\Debug\netcoreapp3.1\BonusApp.Code.runtimeconfig.dev.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\bin\Debug\netcoreapp3.1\BonusApp.Code.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\bin\Debug\netcoreapp3.1\BonusApp.Code.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.csprojAssemblyReference.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.AssemblyInfoInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.AssemblyInfo.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.csproj.CoreCompileInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\BonusApp.Code\BonusApp.Code\obj\Debug\netcoreapp3.1\BonusApp.Code.genruntimeconfig.cache
