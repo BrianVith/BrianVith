@@ -16,3 +16,12 @@ C:\Users\Bruger\Dropbox\Datamatiker\Csharp saved files\ADT\ADT\obj\Debug\netcore
 C:\Users\Bruger\Dropbox\Datamatiker\Csharp saved files\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.csproj.CoreCompileInputs.cache
 C:\Users\Bruger\Dropbox\Datamatiker\Csharp saved files\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.dll
 C:\Users\Bruger\Dropbox\Datamatiker\Csharp saved files\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\bin\Debug\netcoreapp3.1\ADT.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\bin\Debug\netcoreapp3.1\ADT.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\bin\Debug\netcoreapp3.1\ADT.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.csprojAssemblyReference.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.AssemblyInfoInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.AssemblyInfo.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.csproj.CoreCompileInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\ADT\ADT\obj\Debug\netcoreapp3.1\ADT.pdb

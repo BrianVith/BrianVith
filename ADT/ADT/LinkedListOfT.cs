@@ -1,10 +1,11 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 
 namespace ADT
 {
-    public class LinkedList<T> : ILinkedList<T>
+    public class LinkedList<T> : IEnumerable
     {
         private class Node
         {
@@ -256,6 +257,73 @@ namespace ADT
             return str;
         }
 
+        public IEnumerator<T> GetEnumerator()
+        {
+            return new MyLinkedListEnumerator(head);
+        }
 
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
+
+        private class MyLinkedListEnumerator : IEnumerator<T>
+        {
+            private Node _head;
+            private T _currentT;
+            private Node _currentNode;
+
+            public MyLinkedListEnumerator(Node head)
+            {
+                this._head = head;
+                _currentNode = null;
+                _currentT = default(T);
+            }
+
+            public T Current
+            {
+                get { return _currentT; }
+            }
+
+            object IEnumerator.Current
+            {
+                get { return Current; }
+            }
+
+            public void Dispose()
+            {
+            }
+
+            public bool MoveNext()
+            {
+                if (_head == null) // no list at all
+                {
+                    return false;
+                }
+                else if (_currentNode == null) // not started yet
+                {
+                    _currentNode = _head;
+                    _currentT = _currentNode.Data;
+                }
+                else if (_currentNode.Next == null) // at end of list
+                {
+                    _currentNode = null;
+                    _currentT = default(T);
+                    return false;
+                }
+                else // get to next node
+                {
+                    _currentNode = _currentNode.Next;
+                    _currentT = _currentNode.Data;
+                }
+                return true;
+            }
+
+            public void Reset()
+            {
+                _currentNode = null;
+                _currentT = default(T);
+            }
+        }
     }
 }

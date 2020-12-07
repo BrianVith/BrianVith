@@ -36,7 +36,6 @@ namespace ADT
             get { return ItemAt(count-1); }
         }
 
-
         public void Insert(object o)
         {
             InsertAt(0, o);
@@ -96,7 +95,6 @@ namespace ADT
             storeNext.Prev = newNode;
             count++;
         }
-
         public void DeleteAt(int index)
         {
             Node current = head;
@@ -134,7 +132,6 @@ namespace ADT
             current = null;
             count--;
         }
-
         public object ItemAt(int index)
         {
             if (head == null)

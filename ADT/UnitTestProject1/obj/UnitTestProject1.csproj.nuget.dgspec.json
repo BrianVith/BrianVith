@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\UnitTestProject1\\UnitTestProject1.csproj": {}
+    "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\UnitTestProject1\\UnitTestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\ADT\\ADT.csproj": {
+    "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\ADT\\ADT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\ADT\\ADT.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\ADT\\ADT.csproj",
         "projectName": "ADT",
-        "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\ADT\\ADT.csproj",
+        "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\ADT\\ADT.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\ADT\\obj\\",
+        "outputPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\ADT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,18 +54,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\UnitTestProject1\\UnitTestProject1.csproj": {
+    "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\UnitTestProject1\\UnitTestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\UnitTestProject1\\UnitTestProject1.csproj",
         "projectName": "UnitTestProject1",
-        "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\UnitTestProject1\\UnitTestProject1.csproj",
+        "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\UnitTestProject1\\UnitTestProject1.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\UnitTestProject1\\obj\\",
+        "outputPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\UnitTestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -78,9 +80,10 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\ADT\\ADT.csproj": {
-                "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\Csharp saved files\\ADT\\ADT\\ADT.csproj"
+              "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\ADT\\ADT.csproj": {
+                "projectPath": "C:\\Users\\brian\\Dropbox\\Datamatiker\\GitHub\\BrianVith\\ADT\\ADT\\ADT.csproj"
               }
             }
           }
@@ -93,6 +96,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
@@ -126,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
