@@ -1,0 +1,27 @@
+﻿<Window x:Class="IdleHeroesShenanigans.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IdleHeroesShenanigans"
+        mc:Ignorable="d"
+        Title="DB Beregner" Height="450" Width="350"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Orbs:" HorizontalAlignment="Left" Margin="99,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.79,1.761"/>
+        <TextBox x:Name="tbOrbs" HorizontalAlignment="Left" Margin="161,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40"/>
+        <TextBox x:Name="tbShadowSummon" HorizontalAlignment="Left" Margin="161,107,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="40"/>
+        <Label HorizontalAlignment="Left" Margin="12,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.79,1.761"/>
+        <TextBlock x:Name="tbTotal" HorizontalAlignment="Left" Margin="146,335,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="30"><Run Language="da-dk" Text="0"/></TextBlock>
+        <Button x:Name="btnCalc" Content="Beregn Point" HorizontalAlignment="Left" Margin="195,330,0,0" VerticalAlignment="Top" Height="25" Width="80" Click="btnCalc_Click"/>
+        <CheckBox x:Name="cb5StarJahra" Content="5* Jahra" HorizontalAlignment="Left" Margin="231,67,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="cb6StarJahra" Content="6* Jahra" HorizontalAlignment="Left" Margin="231,91,0,0" VerticalAlignment="Top"/>
+        <Label Content="Shadow Summon:" HorizontalAlignment="Left" Margin="32,103,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.79,1.761"/>
+        <Label Content="Total point:" HorizontalAlignment="Left" Margin="67,330,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.79,1.761" Width="70"/>
+        <CheckBox x:Name="cb10StarJahra" Content="10* Jahra" HorizontalAlignment="Left" Margin="231,115,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tbDBTime" HorizontalAlignment="Left" Margin="61,361,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Foreground="#FFE67272" Visibility="Hidden"><Run Language="da-dk" Text="DB TIME WOHOO!!!"/></TextBlock>
+        <Image Margin="17,148,40,115" Stretch="Fill" Source="pack://siteoforigin:,,,/Db.jpg"/>
+
+
+    </Grid>
+</Window>

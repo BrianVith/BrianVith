@@ -1,0 +1,15 @@
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\bin\Debug\netstandard2.0\MyCoffeeApp.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\bin\Debug\netstandard2.0\MyCoffeeApp.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\bin\Debug\netstandard2.0\ref\MyCoffeeApp.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\bin\Debug\netstandard2.0\MyCoffeeApp.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\MyCoffeeApp.csprojAssemblyReference.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\Views\CoffeeEquipmentPage.xaml.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\MyCoffeeApp.AssemblyInfoInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\MyCoffeeApp.AssemblyInfo.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\MyCoffeeApp.csproj.CoreCompileInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\MyCoffeeApp.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\ref\MyCoffeeApp.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\MyCoffeeApp\MyCoffeeApp\MyCoffeeApp\obj\Debug\netstandard2.0\MyCoffeeApp.pdb

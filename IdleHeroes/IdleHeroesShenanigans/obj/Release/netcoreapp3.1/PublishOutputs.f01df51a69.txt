@@ -1,0 +1,6 @@
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Release\netcoreapp3.1\publish\Db.jpg
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Release\netcoreapp3.1\publish\IdleHeroesShenanigans.exe
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Release\netcoreapp3.1\publish\IdleHeroesShenanigans.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Release\netcoreapp3.1\publish\IdleHeroesShenanigans.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Release\netcoreapp3.1\publish\IdleHeroesShenanigans.runtimeconfig.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Release\netcoreapp3.1\publish\IdleHeroesShenanigans.pdb

@@ -1,0 +1,20 @@
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\DB Calculator.exe
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\Db.jpg
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\DB Calculator.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\DB Calculator.runtimeconfig.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\DB Calculator.runtimeconfig.dev.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\DB Calculator.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\bin\Debug\netcoreapp3.1\DB Calculator.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator_MarkupCompile.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator_MarkupCompile.lref
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.g.resources
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.AssemblyInfoInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.AssemblyInfo.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.csproj.CoreCompileInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.genruntimeconfig.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\IdleHeroesShenanigans\obj\Debug\netcoreapp3.1\DB Calculator.csprojAssemblyReference.cache

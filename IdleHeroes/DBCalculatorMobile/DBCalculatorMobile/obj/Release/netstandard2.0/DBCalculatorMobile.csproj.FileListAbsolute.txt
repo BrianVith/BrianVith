@@ -1,0 +1,13 @@
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\bin\Release\netstandard2.0\DBCalculatorMobile.deps.json
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\bin\Release\netstandard2.0\DBCalculatorMobile.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\bin\Release\netstandard2.0\ref\DBCalculatorMobile.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\bin\Release\netstandard2.0\DBCalculatorMobile.pdb
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\DBCalculatorMobile.AssemblyInfoInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\DBCalculatorMobile.AssemblyInfo.cs
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\DBCalculatorMobile.csproj.CoreCompileInputs.cache
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\DBCalculatorMobile.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\ref\DBCalculatorMobile.dll
+C:\Users\brian\Dropbox\Datamatiker\GitHub\BrianVith\IdleHeroes\DBCalculatorMobile\DBCalculatorMobile\obj\Release\netstandard2.0\DBCalculatorMobile.pdb
